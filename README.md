@@ -91,7 +91,7 @@ If a missing external asset appears, install the package in Unity and re-run the
 
 ## Author and credits
 
-Academic project — Bilel Abid and project partner (add teammate credit before public release).
+Academic project — Bilel Abid and Wissem Ammar.
 
 Car model: **PHOENIX GT by XtreemARTS**, used under the publisher's Unity Asset Store license. AUTOSAR is a trademark of its respective owners; this project is an educational demonstration.
 
