@@ -112,3 +112,34 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# AUTOSAR HVAC project — additions to the existing Unity .gitignore
+# Third-party Unity Asset Store source package (import separately)
+/Assets/Sport Car/
+/Assets/Sport Car.meta
+/Assets/AssetStoreTools/
+
+# MATLAB / Simulink generated outputs and caches
+**/slprj/
+**/codegen/
+**/simulink-cache/
+*.slxc
+*.autosave
+*.asv
+*.m~
+*.slx.autosave
+*.mat
+
+# Local tool/secret files
+.env
+.env.*
+!.env.example
+*.pfx
+*.pem
+*.key
+*.p12
+
+# Project local backups
+/Backups/
+/_scratch/
+
